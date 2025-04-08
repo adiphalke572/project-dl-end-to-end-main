@@ -15,3 +15,15 @@
 [2025-04-08 17:14:37,300: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
 
 x==========x]
+[2025-04-08 19:08:22,933: INFO: comman: yaml file: config\config.yaml loaded successfully]
+[2025-04-08 19:08:22,952: INFO: comman: yaml file: params.yaml loaded successfully]
+[2025-04-08 19:08:22,958: INFO: comman: created directory at: artifacts]
+[2025-04-08 19:09:24,109: INFO: comman: yaml file: config\config.yaml loaded successfully]
+[2025-04-08 19:09:24,111: INFO: comman: yaml file: params.yaml loaded successfully]
+[2025-04-08 19:09:24,111: INFO: comman: created directory at: artifacts]
+[2025-04-08 19:10:35,335: INFO: comman: yaml file: config\config.yaml loaded successfully]
+[2025-04-08 19:10:35,340: INFO: comman: yaml file: params.yaml loaded successfully]
+[2025-04-08 19:10:35,340: INFO: comman: created directory at: artifacts]
+[2025-04-08 19:12:21,579: INFO: comman: yaml file: config\config.yaml loaded successfully]
+[2025-04-08 19:12:21,579: INFO: comman: yaml file: params.yaml loaded successfully]
+[2025-04-08 19:12:21,587: INFO: comman: created directory at: artifacts]
