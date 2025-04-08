@@ -1,7 +1,7 @@
 from src.cnnClassifier.utils.comman import read_yaml,create_directories
 from src.cnnClassifier.constants import *
 from src.cnnClassifier.entity.config import DataIngestionConfig
-from src.cnnClassifier.entity.config import PrepareBaseModelConfig
+from src.cnnClassifier.entity.config import PrepareBaseModelConfig 
 
 class ConfigurationManager:
     def __init__(
