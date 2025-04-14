@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLops_project/project-dl-end-to-end-main/mlruns/0/b2c2b41bfd9f40568a6417fc07e83bd0/artifacts
+end_time: 1744624180383
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b2c2b41bfd9f40568a6417fc07e83bd0
+run_name: selective-hog-980
+run_uuid: b2c2b41bfd9f40568a6417fc07e83bd0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744624165334
+status: 3
+tags: []
+user_id: ADITYA

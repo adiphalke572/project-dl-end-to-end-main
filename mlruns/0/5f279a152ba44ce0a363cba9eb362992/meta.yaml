@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/MLops_project/project-dl-end-to-end-main/mlruns/0/5f279a152ba44ce0a363cba9eb362992/artifacts
+end_time: 1744624037848
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5f279a152ba44ce0a363cba9eb362992
+run_name: magnificent-wren-930
+run_uuid: 5f279a152ba44ce0a363cba9eb362992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744624021643
+status: 3
+tags: []
+user_id: ADITYA
