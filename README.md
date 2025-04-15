@@ -23,3 +23,6 @@ git clone https://github.com/adiphalke572/project-dl-end-to-end-main
 
 ## steps-4 requirements 
 pip install -r requirements.txt
+
+# deployement
+# docker,aws,ci/cd pipeline
